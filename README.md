@@ -6,10 +6,9 @@ This PwC Switzerland study demonstrates the potential of digital data analytics 
 # Call Center Trends
 
 The first dashboard provides information on call centre performance measures, with a focus on agent effectiveness, call volumes, and customer happiness. It assists in identifying opportunities to improve call centre operations.
-![Call Center Analysis Dashboard Image]
-(https://github.com/AkashGirame21/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Internship-Switzerland/assets/167165610/b5a885b1-a2a5-4f97-bc1c-de917c647b1c)
+![Call Center Analysis Dashboard Image](https://github.com/AkashGirame21/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Internship-Switzerland/assets/167165610/26838549-f37c-4d7a-bb16-24b008383a33)
 
-#Customer Retension
+# Customer Retension
 
 The telecom's retention manager requested the Customer Retention dashboard, which provides important data on customer loyalty and retention. It forecasts attrition and makes recommendations for tactics to boost retention.
 ![Image 1](https://github.com/AkashGirame21/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Internship-Switzerland/assets/167165610/b72d9291-ecdb-4b95-85e6-dee1699c58f4)
@@ -18,14 +17,14 @@ The telecom's retention manager requested the Customer Retention dashboard, whic
 
 ![Image 3](https://github.com/AkashGirame21/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Internship-Switzerland/assets/167165610/d67e4751-02de-4d7b-8cf9-1368199bbbc3)
 
-#Diversity & Inclusion
+# Diversity & Inclusion
 
 Improving gender parity in executive management is a goal supported by the telecom client's Diversity & Inclusion dashboard. It provides insights and opportunities for action by visualising diversity data.
 ![Image 1`](https://github.com/AkashGirame21/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Internship-Switzerland/assets/167165610/a4541e13-78b9-4621-b5ef-73146d5870d0)
 
-![Image 2](https://githInub.com/AkashGirame21/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Internship-Switzerland/assets/167165610/ebe32790-9119-4119-860d-dfe44772cc4a)
+![Image 2](https://github.com/AkashGirame21/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Internship-Switzerland/assets/167165610/310415f7-cbdf-4271-aea7-c0a48ce63807)
 
-#Internship Certificate
+# Internship Certificate
 
 ![PWC Internship Certificate Image](https://github.com/AkashGirame21/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Internship-Switzerland/assets/167165610/2102214e-3f9d-430b-a8b5-f5120a76d99f)
 
